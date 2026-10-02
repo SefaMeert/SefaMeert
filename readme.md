@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Sefa Mert</h1>
-<h3 align="center">Tech & Software Enthusiast</h3>
 
 <p align="center">
   <a href="https://t.me/sefameert"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
