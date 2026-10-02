@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://t.me/sefameert"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://instagram.com/sefameert"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://sefameert.net"><img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
+  <a href="https://sefameert.net"><img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
 </p>
 
 ---
