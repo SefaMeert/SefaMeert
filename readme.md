@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sefa Mert 👋</h1>
+<h1 align="center">Hi there, I'm Sefa Mert</h1>
 <h3 align="center">Tech & Software Enthusiast</h3>
 
 <p align="center">
